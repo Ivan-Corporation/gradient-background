@@ -41,7 +41,7 @@ import { GradientBackgroud } from 'gradient-background';
 const App = () => {
   return (
     <div>
-      <GradientBackgroud color='primary'>
+      <GradientBackgroud color='primary'/>
     </div>
   );
 };
