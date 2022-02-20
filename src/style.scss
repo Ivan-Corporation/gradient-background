@@ -1,0 +1,64 @@
+.primary {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	animation: gradient 15s ease infinite;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;
+}
+.secondary {
+  background: linear-gradient(-45deg, #b7ee52, #7e3ce7, #f8eddf, #3e59f3);
+	animation: gradient 15s ease infinite;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;
+}
+.white {
+  background: linear-gradient(-45deg, #f0f0f0, #cecece, #afafaf, #d1d1d1);
+	animation: gradient 15s ease infinite;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;
+}
+.dark {
+  background: linear-gradient(-45deg, #3f3f3f, #242424, #111111, #3b3a3a);
+	animation: gradient 15s ease infinite;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;
+}
+.blue {
+  background: linear-gradient(-45deg, #8cfdea, #0089fa, #4da3e9, #494cfc);
+	animation: gradient 15s ease infinite;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;
+}
+.orange {
+  background: linear-gradient(-45deg, #fdc88c, #fa8500, #e9a54d, #fc9a49);
+	animation: gradient 15s ease infinite;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;
+}
+.green {
+  background: linear-gradient(-45deg, #b0fd8c, #08fa00, #6ce94d, #49fc67);
+	animation: gradient 15s ease infinite;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;
+}
+
+
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
