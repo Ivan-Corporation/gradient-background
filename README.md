@@ -48,14 +48,31 @@ const App = () => {
 ```
 
 ---
-## Colors:
+## Colors in start positions:
 ### primary:
+<img src='./1.png'>
+
 ### secondary:
+<img src='./secondary.png'>
+
 ### white:
+<img src='./white.png'>
+
 ### dark:
+<img src='./dark.png'>
+
 ### blue:
+<img src='./blue.png'>
+
 ### orange:
+<img src='./orange.png'>
+
 ### green:
+<img src='./green.png'>
+
+### purple:
+<img src='./purple.png'>
+
 
 
 ---
