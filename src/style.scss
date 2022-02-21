@@ -7,7 +7,7 @@
   position: fixed;
 }
 .secondary {
-  background: linear-gradient(-45deg, #b7ee52, #7e3ce7, #f8eddf, #3e59f3);
+  background: linear-gradient(-45deg, #e152ee, #7e3ce7, #4ddbff, #3e59f3);
 	animation: gradient 15s ease infinite;
   width: 100%;
   height: 100%;
@@ -15,7 +15,7 @@
   position: fixed;
 }
 .white {
-  background: linear-gradient(-45deg, #f0f0f0, #cecece, #afafaf, #d1d1d1);
+  background: linear-gradient(-45deg, #ffffff, #f0f0f0, #dbdbdb, #d1d1d1);
 	animation: gradient 15s ease infinite;
   width: 100%;
   height: 100%;
@@ -23,7 +23,7 @@
   position: fixed;
 }
 .dark {
-  background: linear-gradient(-45deg, #3f3f3f, #242424, #111111, #3b3a3a);
+  background: linear-gradient(-45deg, #3f3f3f, #4d4d4d, #464646, #313131);
 	animation: gradient 15s ease infinite;
   width: 100%;
   height: 100%;
@@ -39,7 +39,7 @@
   position: fixed;
 }
 .orange {
-  background: linear-gradient(-45deg, #fdc88c, #fa8500, #e9a54d, #fc9a49);
+  background: linear-gradient(-45deg, #fdc88c, #fa8500, #fda838, #fc9a49);
 	animation: gradient 15s ease infinite;
   width: 100%;
   height: 100%;
@@ -47,7 +47,15 @@
   position: fixed;
 }
 .green {
-  background: linear-gradient(-45deg, #b0fd8c, #08fa00, #6ce94d, #49fc67);
+  background: linear-gradient(-45deg, #b0fd8c, #7bff76, #64ff3e, #30fc52);
+	animation: gradient 15s ease infinite;
+  width: 100%;
+  height: 100%;
+  z-index: -100;
+  position: fixed;
+}
+.purple {
+  background: linear-gradient(-45deg, #d38cfd, #cd76ff, #d83eff, #b130fc);
 	animation: gradient 15s ease infinite;
   width: 100%;
   height: 100%;
